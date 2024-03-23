@@ -10,8 +10,7 @@ Link to the course:
 
 This repo contains my solutions:
 
-<img title="" src="file:///home/rr/Downloads/certificate-java-programming-i.png" alt="Certificate" width="775" data-align="center">
-
+![]("./certificate-java-programming-i.png")
 
 
 
