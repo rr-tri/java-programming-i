@@ -10,7 +10,7 @@ Link to the course:
 
 This repo contains my solutions:
 
-![]("./certificate-java-programming-i.png")
+![](./certificate-java-programming-i.png)
 
 
 
